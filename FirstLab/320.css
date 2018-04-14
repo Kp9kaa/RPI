@@ -1,0 +1,103 @@
+.header{
+	background:#373c3f;
+	font-size:15px;
+	color:white;
+	height: 38px;
+}
+.main{
+	width: 320px;
+	margin: auto;
+	font-family: Myfont;
+}
+nav{
+	display: none;
+}
+li{
+	float: left;
+	margin-right: 30px;
+}
+.textnav{
+	position:absolute;
+	padding-left:19px;
+	padding-top:12px;
+	font-size:12px;
+	width:160px;
+}
+.btnnav{
+	float:right;
+	height:38px;
+	width:40px;
+	background:url(img/menu.jpg) no-repeat center;
+	background-size:cover;
+}
+.button{
+	cursor: pointer;
+}
+
+.banner1{
+	height:175px;
+	background: url(img/Banner.jpg) no-repeat bottom;
+	background-size:cover;
+}
+
+.banner2{
+	height:75px;
+	background: url(img/textBox.jpg) no-repeat;
+	background-size:cover;
+}
+
+.banner3{
+	background:url(img/1.jpg) no-repeat;
+	background-size:cover;
+	height:276px;
+	width:320px;
+}
+
+.banner4{
+	background:url(img/2.jpg) no-repeat;
+	background-size:cover;
+	height:276px;
+	width:320px;
+}
+
+.banner5{
+	background:url(img/3.jpg) no-repeat;
+	background-size:cover;
+	height:277px;
+	width:320px;
+}
+
+.sumbanner{
+	height:830px;
+}
+
+footer{
+	position:relative;
+	height:445px;
+}
+
+.textblock1{
+	position:absolute;
+	height:375px;
+	width:257px;
+	padding:35px 38px;
+	padding-right:25px;
+}
+
+.textblock2{
+	display: none;
+}
+
+.text{
+	
+	line-height: 22px;
+	font-size:13px;
+	color:#515151;
+}
+
+.margin2{margin-top:18px;}
+.margin1{margin-top:8px;}
+.Blaz {
+	color:#088ca5;
+	font-size:19px;
+}

@@ -1,0 +1,107 @@
+.header{
+	background:#373c3f;
+	font-size:15px;
+	color:white;
+	height: 106px;
+}
+.main{
+	width: 1024px;
+	margin: auto;
+	font-family: Myfont;
+}
+nav{
+	padding-left: 50px;
+	padding-top: 45px;
+	height: 20px;
+}
+li{
+	float: left;
+	margin-right: 30px;
+}
+.textnav{
+	display: none;
+}
+.btnnav{
+	display: none;
+}
+.button{
+	cursor: pointer;
+}
+.banner1{
+	height: 580px;
+	background: url(img/Banner.jpg) no-repeat bottom; 
+}
+.banner2{
+	height:240px;
+	background: url(img/textBox.jpg) no-repeat;
+	background-size:cover;
+}
+.sumbanner{
+	position:relative;
+	height:295px;
+}
+.banner3{
+	background:url(img/1.jpg) no-repeat;
+	background-size:cover;
+	position:absolute;
+	height:295px;
+	width:342px;
+}
+
+.banner4{
+	background:url(img/2.jpg) no-repeat;
+	background-size:cover;
+	position:absolute;
+	left:342px;
+	height:295px;
+	width:340px;
+}
+
+.banner5{
+	background:url(img/3.jpg) no-repeat;
+	background-size:cover;
+	position:absolute;
+	left:682px;
+	height:295px;
+	width:342px;
+}
+footer{
+	position:relative;
+	height:560px;
+	background:#ebebeb;
+}
+
+.textblock1{
+	position:absolute;
+	height:450px;
+	width:399px;
+	padding-top:55px;
+	padding-bottom:55px;
+	padding-left:83px;
+	padding-right:30px;
+}
+
+.textblock2{
+	position:absolute;
+	left:512px;
+	height:416px;
+	width:399px;
+	padding-bottom:55px;
+	padding-top:89px;
+	padding-left:30px;
+	padding-right:83px;
+}
+
+.text{
+	
+	line-height: 26px;
+	font-size:14px;
+	color:#515151;
+}
+
+.margin2{margin-top:30px;}
+.margin1{margin-top:20px;}
+.Blaz {
+	color:#088ca5;
+	font-size:30px;
+}
